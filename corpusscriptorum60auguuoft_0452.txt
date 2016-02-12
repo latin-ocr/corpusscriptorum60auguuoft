@@ -1,0 +1,28 @@
+CODICES:
+
+Ι. Codices libros quattuor continentes:
+
+Ο = codex oxoniensis (Laud. Misc.) 134 saec. X in.
+
+B = codex Abrincensis 88 saec. XII.
+
+C = codex Mediolanensis Ambr. H 99 sup. saec. Xl-Xll.
+D = codex Gratianopolitanus 197 saec. XII.
+
+Ε = codem Vaticanus Latinus 500 saec. XV.
+
+F = codex Vaticanus Latinus 501 saec. XV.
+
+V = codex Vindobonensis 873 (Theol. 733) saec. IX.
+
+ΙΙ. Codices librum I continentes:
+
+G = codex Coloniensis LXXX (Darmst. 2081) saec. IX.
+L = codex oxoniensis (Laud. Misc.) 133 saec. IX.
+H = fragmentum codicis Aurelianensis 192 (169) saec. VIII.
+
+b = editio Amerbachiana.
+d = editio Benedictinorum a S. Mauro 1690.
+
+ 
+

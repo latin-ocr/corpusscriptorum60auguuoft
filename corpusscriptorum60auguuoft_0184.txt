@@ -1,0 +1,24 @@
+CODICES:
+
+L = codex Lugdunensis 603 (520) saec. VIII—IX.
+
+S = codex Salisburqensis S. Petro· a. VIII. 29 saec. IX.
+P = codex olim Corbeie‘nsis num: Parisinus 12213 saec. X.
+G = codex Sanqallensis 171 saec. X.
+
+O = codex oxoniensis (Laud. Misc.) 134 saec. X in.
+
+K = codex Auqieusis XCV saec. X.
+
+G = codex Gasinensis C'LXIII saec. XI.
+
+T = codex Vaticanus Latinus 461 saec. Xleae.
+
+2 = consensus codicum LSPG.
+
+r = consensus codicum OKCT.
+
+b = editio princeps s.l. et a. (1473 ?).
+
+d = editu) Benediclinorum a S. Mauro 1690.
+
